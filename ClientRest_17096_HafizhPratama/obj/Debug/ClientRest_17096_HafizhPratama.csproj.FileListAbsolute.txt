@@ -1,0 +1,9 @@
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\bin\Debug\ClientRest_17096_HafizhPratama.exe.config
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\bin\Debug\ClientRest_17096_HafizhPratama.exe
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\bin\Debug\ClientRest_17096_HafizhPratama.pdb
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\obj\Debug\ClientRest_17096_HafizhPratama.csprojAssemblyReference.cache
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\obj\Debug\ClientRest_17096_HafizhPratama.csproj.CoreCompileInputs.cache
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\obj\Debug\ClientRest_17096_HafizhPratama.csproj.CopyComplete
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\obj\Debug\ClientRest_17096_HafizhPratama.exe
+C:\Users\My ASUS\source\repos\ClientRest_17096_HafizhPratama\ClientRest_17096_HafizhPratama\obj\Debug\ClientRest_17096_HafizhPratama.pdb
